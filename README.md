@@ -31,4 +31,4 @@ Phạm vi đề tài này:
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/ThuanNguyenIT2011/BaoCaoThucTapTotNghiep_N20DCCN077_NguyenVanThuan.git
