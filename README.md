@@ -1,6 +1,6 @@
 # Nghiên Cứu Ứng Dụng Học Sâu Phát Triển Hệ Thống Nhà Thông Minh
 
-## Thông Tin Dự Án
+## Thông Tin Bài Báo Cáo
 
 **Người hướng dẫn**: ThS. Phan Thanh Hy  
 **Sinh viên thực hiện**: Nguyễn Văn Thuận  
